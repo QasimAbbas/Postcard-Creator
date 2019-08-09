@@ -1,0 +1,8 @@
+{
+  "name": "PostCardApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "ffc35c44"
+}
